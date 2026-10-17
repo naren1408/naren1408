@@ -1,16 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,19,20&text=Sai%20Naren&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20in%20the%20making&descSize=20&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,50:DB2777,100:F59E0B&text=SAI%20NAREN&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20MACHINE%20LEARNING%20ENGINEER%20IN%20THE%20MAKING&descSize=14&descColor=FFFFFF&descAlignY=58" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=F59E0B&center=true&vCenter=true&width=700&lines=%3E+training+models+%26+shipping+products;%3E+NLP+%7C+Computer+Vision+%7C+Data+Science;%3E+turning+research+ideas+into+real+apps;%3E+currently+learning%3A+something+new+every+day" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=800&color=F59E0B&center=true&vCenter=true&width=650&lines=Training+models+and+shipping+products.;NLP%2C+Computer+Vision+and+Data+Science.;Turning+ideas+into+real+apps." alt="Introduction" />
 
 <br/><br/>
 
 <a href="https://github.com/naren1408"><img src="https://img.shields.io/badge/GitHub-naren1408-7C3AED?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://msainaren1408.wixsite.com/clovers"><img src="https://img.shields.io/badge/Portfolio-Visit-F59E0B?style=flat-square&logo=googlechrome&logoColor=black" /></a>
 <img src="https://img.shields.io/badge/LPU-CSE%20(AI%20%26%20ML)-DB2777?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=naren1408&label=Profile%20views&color=7C3AED&style=flat-square" />
-
 </div>
 
 <br/>
@@ -108,7 +106,7 @@ A clean grocery storefront with categories, product filtering, and a working car
 
 <br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=naren1408&theme=radical&hide_border=true&background=0F172A&ring=F59E0B&fire=F59E0B&currStreakLabel=A78BFA" />
+<img height="170" src="https://streak-stats.demolab.com/?user=naren1408&theme=radical&hide_border=true&background=0F172A&ring=F59E0B&fire=F59E0B&currStreakLabel=A78BFA" />
 
 <br/>
 
@@ -129,6 +127,6 @@ A clean grocery storefront with categories, product filtering, and a working car
 
 *"Every project is another opportunity to learn something new."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:DB2777,100:7C3AED&height=100&section=footer" width="100%" />
 
 </div>
