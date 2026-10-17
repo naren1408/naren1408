@@ -1,127 +1,131 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=SAI%20NAREN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1020,55:172554,100:164E63&text=SAI%20NAREN&fontSize=48&fontColor=E0F2FE&fontAlignY=43&desc=ENGINEERING%20INTELLIGENCE&descSize=15&descColor=67E8F9&descAlignY=68" />
 
-<a href="https://github.com/naren1408">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+intelligent+solutions;Exploring+NLP+and+Computer+Vision;Turning+ideas+into+working+projects" alt="Typing animation" />
+<br/>
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=650&lines=AI%2FML+Developer+in+Progress;Building+Intelligent+Applications;Exploring+NLP+%26+Computer+Vision;Turning+Ideas+Into+Code" alt="Developer introduction" />
 </a>
 
-<p>
-  <a href="https://github.com/naren1408">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://msainaren1408.wixsite.com/clovers">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/naren1408">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" />
+</a>
+<a href="https://msainaren1408.wixsite.com/clovers">
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" />
+</a>
 
 </div>
 
 ---
 
-## `whoami`
+### `01 / THE DEVELOPER`
+
+I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning, interested in building software that solves practical problems.
+
+- **Focus:** Machine Learning, NLP and Computer Vision
+- **Languages:** Python, C++, Java and SQL
+- **Development:** Flask, FastAPI and React
+- **Approach:** Learn the fundamentals, experiment with ideas, build working solutions.
 
 ```python
-class SaiNaren:
-    def __init__(self):
-        self.education = "B.Tech CSE - AI & ML"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Natural Language Processing",
-            "Computer Vision"
-        ]
-        self.languages = ["Python", "C++", "Java", "SQL"]
-        self.mindset = "Learn, Build, Improve"
+class Developer:
+    focus = ["AI", "Machine Learning", "NLP"]
+    philosophy = "Build with purpose."
 
-    def current_goal(self):
-        return "Building practical AI-powered applications"
-
-me = SaiNaren()
+    def next_step(self):
+        return "Learn -> Experiment -> Build -> Improve"
 ```
 
-## `tech_stack`
+### `02 / THE TOOLKIT`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,flask,fastapi,tensorflow,git,github,mysql,vscode&perline=7" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,tensorflow,react,flask,fastapi,git,github,mysql,vscode&theme=dark&perline=6" alt="Technology stack" />
 
-## `featured_projects`
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/Scikit--Learn-0F172A?style=flat-square&logo=scikitlearn&logoColor=FBBF24" />
+<img src="https://img.shields.io/badge/NLP-0F172A?style=flat-square&logoColor=C4B5FD" />
+
+</div>
+
+### `03 / SELECTED PROJECTS`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌍 ORBIS
+**01 — ORBIS**
 
-**Urban Sprawl Monitoring**
+*Urban Sprawl Monitoring*
 
-AI-based satellite image analysis to explore urban expansion and land-use patterns.
+Analyze satellite imagery to explore urban expansion and land-use patterns.
 
-`Python` `TensorFlow` `Scikit-learn` `FastAPI`
+`Python` `TensorFlow` `FastAPI`
+
+<a href="https://github.com/naren1408?tab=repositories">Explore repositories →</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 SmartSummarizer
+**02 — SMARTSUMMARIZER**
 
-**Intelligent Text Summarization**
+*Intelligent Text Summarization*
 
-Exploring extractive and abstractive summarization using traditional NLP and transformer-based models.
+Explore extractive and abstractive approaches to generating concise summaries.
 
-`Python` `TextRank` `BERT` `BART` `T5`
+`TextRank` `BERT` `BART` `T5`
+
+<a href="https://github.com/naren1408?tab=repositories">Explore repositories →</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Power Consumption
+**03 — POWER INTELLIGENCE**
 
-**Monitoring & Recommendations**
+*Energy Prediction & Anomaly Detection*
 
-Predict electricity consumption, identify unusual usage patterns, and recommend ways to reduce waste.
+Predict household power consumption and identify unusual usage patterns.
 
-`Python` `Machine Learning` `Flask`
+`Python` `Scikit-learn` `Flask`
+
+<a href="https://github.com/naren1408?tab=repositories">Explore repositories →</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 Quick Kart
+**04 — QUICK KART**
 
-**Grocery Shopping Web App**
+*Grocery Shopping Web App*
 
-A grocery-shopping interface with product categories, filtering, and cart functionality.
+A grocery shopping interface with product categories, filtering and cart functionality.
 
 `HTML` `CSS` `JavaScript` `Flask`
+
+<a href="https://github.com/naren1408?tab=repositories">Explore repositories →</a>
 
 </td>
 </tr>
 </table>
 
-## `github_analytics`
+### `04 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=naren1408&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naren1408&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=C4B5FD&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naren1408&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naren1408&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=naren1408&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naren1408&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naren1408&bg_color=0B1020&color=67E8F9&line=8B5CF6&point=E0F2FE&area=true&hide_border=true" />
 
 </div>
 
@@ -129,10 +133,12 @@ A grocery-shopping interface with product categories, filtering, and cart functi
 
 <div align="center">
 
-### `while (learning) { keep_building(); }`
+### BUILD. LEARN. REPEAT.
 
-*Focused on learning, experimentation, and building useful technology.*
+<sub>Curiosity drives the experiment. Code makes it real.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&section=footer&color=0B1020" width="100%" />
 
 </div>
